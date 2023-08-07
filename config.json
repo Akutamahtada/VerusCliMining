@@ -1,12 +1,12 @@
 {
 	"pools":[
 	{
-		"name": "Cloudiko",
-        	"url": "us.cloudiko.io:9999",
+		"name": "Zergpool",
+        	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300 ",
 		"timeout": 150
 	}],
 	"user": "RTb8UjSM6jmzfiqXY9YRZwTZokJAqAzAYm",
-	"pass": "x",
+	"pass": "c=VRSC,mc=VRSC",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
