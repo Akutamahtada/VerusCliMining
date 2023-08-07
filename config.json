@@ -1,14 +1,16 @@
 {
 	"pools":[
 	{
-		"name": "Zergpool",
-        	"url": "stratum+tcp://verushash.na.mine.zergpool.com:3300 ",
+		"name": "ZergPool",
+        	"url": "stratum+tcp://verushash.mine.zergpool.com:3300",
 		"timeout": 150
 	}],
 	"user": "RTb8UjSM6jmzfiqXY9YRZwTZokJAqAzAYm",
-	"pass": "c=VRSC,mc=VRSC",
+	"pass": "c=VSCN",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
+	"api-allow": "192.168.0.0/16",
+	"api-bind": "0.0.0.0:4068"
 }
