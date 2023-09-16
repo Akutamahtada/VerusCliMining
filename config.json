@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://us.vipor.net:5040",
 		"timeout": 150
 	}],
-	"user": "RTb8UjSM6jmzfiqXY9YRZwTZokJAqAzAYm.199-DuraForcePro2-1",
+	"user": "RTb8UjSM6jmzfiqXY9YRZwTZokJAqAzAYm.199-KyoceraDuraForce2-1",
 	"pass": "",
 	"algo": "verus",
 	"threads": 8,
