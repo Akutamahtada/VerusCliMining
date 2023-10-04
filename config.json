@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://us.vipor.net:5040",
 		"timeout": 150
 	}],
-	"user": "RTb8UjSM6jmzfiqXY9YRZwTZokJAqAzAYm.211-S9-1",
+	"user": "RTb8UjSM6jmzfiqXY9YRZwTZokJAqAzAYm.212-One+N200-1",
 	"pass": "",
 	"algo": "verus",
 	"threads": 8,
